@@ -1,0 +1,9 @@
+@media(max-width: 425px){
+    .card .profile{
+        width: 300px;
+    }
+
+    .card .profile img{
+        max-width: 300px;
+    }
+}

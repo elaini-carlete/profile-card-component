@@ -1,0 +1,6 @@
+:root{
+    --background: hsl(185, 75%, 39%);
+    --color-primary: hsl(229, 23%, 23%);
+    --color-secundary: hsl(227, 10%, 46%);
+    --line: hsl(0, 0%, 59%);
+}
